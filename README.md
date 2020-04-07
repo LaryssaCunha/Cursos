@@ -2,7 +2,7 @@
 
 Os cursos são mantidos pelo [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com).
 
-<img align="right" src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t1.0-0/p370x247/11988189_1473361722968282_3137472536378790528_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=T0x83eeiEjcAX_AfygA&_nc_ht=scontent.fcgh10-1.fna&_nc_tp=6&oh=1fdb4758e97cb61b9271ba4b7d7f2872&oe=5EB1ED7D" width="200">
+<img align="right" src="https://raw.githubusercontent.com/davinyvidal/Cursos/master/logo_pyladiessp.jpg" width="200">
 
 ## Inicio
 
